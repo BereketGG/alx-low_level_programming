@@ -1,1 +1,2 @@
-# alx-low_level_programming
+# Starting to deal with c
+kind of intimidating but here we go ...
