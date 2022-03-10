@@ -2,6 +2,7 @@
 
 /*
  * main - starting point
+ *
  * Return: 0 if the code runs without error
  */
  
