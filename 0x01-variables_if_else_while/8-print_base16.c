@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-		char s;
+		char hex;
 
 		for (hex = '0x0'; hex <= '0x16'; hex++)
 		putchar(hex);
