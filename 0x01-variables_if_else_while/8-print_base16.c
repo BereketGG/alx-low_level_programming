@@ -6,10 +6,13 @@
 */
 int main(void)
 {
-		char hex;
+		char h;
 
-		for (hex = '0x0'; hex <= '0x16'; hex++)
-		putchar(hex);
+		for (h = '0'; h <= '9'; h++)
+		putchar(digit);
+
+		for (h = 'a'; h <= 'f'; h++)
+		putchar(h);
 
 		putchar('\n');
 
