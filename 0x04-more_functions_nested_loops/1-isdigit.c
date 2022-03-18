@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _isdigit - check the code.
+ * @c: Variable text
+ * Return: check the letter and return 1 if its digit, 0 otherwise.
  */
 
 int _isdigit(int c)
