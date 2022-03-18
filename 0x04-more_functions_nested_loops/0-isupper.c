@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * _isupper - check the code.
+ * @c: Variable text
+ * Return: check the letter and return 1 if its uppercase, 0 otherwise.
  */
 
 int _isupper(int c)
